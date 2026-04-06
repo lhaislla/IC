@@ -22,6 +22,8 @@ AT2/
 │   └── dashboard.py               # Script principal da aplicação
 └── requirements.txt               # Lista de dependências e versões
 
+
+```
 ## ⚙️ Pré-requisitos
 
 * Python 3.10 ou superior
@@ -38,7 +40,6 @@ No diretório raiz do projeto:
 ```bash
 python -m venv venv
 ```
-
 ---
 
 ### 2. Ativar o ambiente virtual
